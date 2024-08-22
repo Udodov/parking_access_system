@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}
+Access Result - Parking Access System
+{% endblock %}
+
+{% block content %}
+<h1>Access Check for License Plate: {{ license_plate }}</h1>
+{% if access_granted %}
+    <p>Access Granted</p>
+{% else %}
+    <p>Access Denied</p>
+{% endif %}
+{% endblock %}
