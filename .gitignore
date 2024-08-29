@@ -106,6 +106,9 @@ dmypy.json
 # pytype static type analyzer
 .pytype/
 
+# Photos and Images
+images/
+
 # Cython debug symbols
 cython_debug/
 
@@ -115,6 +118,9 @@ docker-compose.override.yml
 
 # Alembic files and folders
 alembic/versions/*.pyc
+
+# Machine learning models
+models/*.pt
 
 # VS Code settings (optional)
 .vscode/
