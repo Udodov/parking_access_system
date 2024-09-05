@@ -1,0 +1,40 @@
+<mxfile host="Electron" modified="2024-09-02T07:06:37.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="90Oro73ZFjmWbWo4mORB" version="23.1.5" type="device">
+  <diagram name="Страница — 1" id="xoORog_tygzJA8ZhepQu">
+    <mxGraphModel dx="1036" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CCJeKrxc76i_sdfFd23n-1" value="&lt;pre&gt;&lt;code spellcheck=&quot;false&quot;&gt;- &lt;b&gt;Изображения&lt;/b&gt;&lt;br&gt;  (Камеры,&lt;/code&gt; &lt;br&gt;   YOLOv8s)&lt;/pre&gt;&lt;pre&gt;&lt;code spellcheck=&quot;false&quot;&gt;- &lt;b&gt;Логи доступа&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code spellcheck=&quot;false&quot;&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code spellcheck=&quot;false&quot;&gt;&lt;br&gt;- &lt;b&gt;Внешние данные&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="150" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CCJeKrxc76i_sdfFd23n-2" value="&lt;pre&gt;&lt;code spellcheck=&quot;false&quot;&gt;- &lt;b&gt;Распознавание&lt;/b&gt;&lt;br&gt;  (&lt;/code&gt;Tesseract,&lt;br&gt;   OpenCV)&lt;/pre&gt;&lt;pre&gt;&lt;code spellcheck=&quot;false&quot;&gt;- &lt;b&gt;Очистка&lt;/b&gt;&lt;br&gt;  (&lt;/code&gt;Python (Pandas,&lt;br&gt;   NumPy)&lt;/pre&gt;&lt;pre&gt;&lt;code spellcheck=&quot;false&quot;&gt;- &lt;b&gt;Анализ&lt;/b&gt;&lt;br&gt;  (&lt;/code&gt;Python (Pandas,&lt;br/&gt;   NumPy)&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="150" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CCJeKrxc76i_sdfFd23n-3" value="&lt;pre&gt;&lt;code spellcheck=&quot;false&quot;&gt;- &lt;b&gt;База данных&lt;/b&gt;&lt;br&gt; (&lt;/code&gt;PostgreSQL, MySQL)&lt;/pre&gt;&lt;pre&gt;&lt;code spellcheck=&quot;false&quot;&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code spellcheck=&quot;false&quot;&gt;&lt;br&gt;- &lt;b&gt;Логи событий&lt;/b&gt;&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code spellcheck=&quot;false&quot;&gt;&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;pre&gt;&lt;code spellcheck=&quot;false&quot;&gt;&lt;br&gt;- &lt;b&gt;Визуализация&lt;/b&gt;&lt;br&gt;  (&lt;/code&gt;Flask)&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="150" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CCJeKrxc76i_sdfFd23n-4" value="&lt;pre style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;code spellcheck=&quot;false&quot;&gt;Extract&lt;br&gt;(&lt;/code&gt;Извлечение)&lt;/b&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CCJeKrxc76i_sdfFd23n-5" value="&lt;pre style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;code spellcheck=&quot;false&quot;&gt;Transform&lt;br&gt;(&lt;/code&gt;Преобразование)&lt;/b&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CCJeKrxc76i_sdfFd23n-6" value="&lt;pre style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;code spellcheck=&quot;false&quot;&gt;Load&lt;br&gt;(&lt;/code&gt;Загрузка)&lt;/b&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CCJeKrxc76i_sdfFd23n-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="135" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CCJeKrxc76i_sdfFd23n-8" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CCJeKrxc76i_sdfFd23n-9" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CCJeKrxc76i_sdfFd23n-10" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="190" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

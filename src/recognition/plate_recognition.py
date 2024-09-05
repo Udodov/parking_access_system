@@ -1,40 +1,75 @@
 import cv2
 import numpy as np
 import pytesseract
+from ultralytics import YOLO
 
 from .image_processing import preprocess_image
 
+# Загрузка модели YOLOv8 из директории models
+model_path = "models/yolov8s.pt"
+model = YOLO(model_path)
 
-def recognize_plate(image_path):
-    # Загрузка изображения
-    image = cv2.imread(image_path)
 
-    # Предварительная обработка изображения
-    preprocessed_image, gray = preprocess_image(image)
+def recognize_plate_from_frame(frame):
+    # Предварительная обработка кадра (если требуется)
+    preprocessed_frame, gray = preprocess_image(frame)
 
-    # Поиск контуров и их сортировка по площади
-    contours, _ = cv2.findContours(preprocessed_image.copy(), cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
-    contours = sorted(contours, key=cv2.contourArea, reverse=True)[:10]
+    # Применение YOLO для поиска номерного знака
+    results = model(preprocessed_frame)
 
-    # Поиск контура номерного знака
-    screenCnt = None
-    for contour in contours:
-        perimeter = cv2.arcLength(contour, True)
-        approx = cv2.approxPolyDP(contour, 0.02 * perimeter, True)
-        if len(approx) == 4:
-            screenCnt = approx
+    # Анализ результатов детекции
+    class_ids = []
+    confidences = []
+    boxes = []
+
+    for result in results:
+        for box in result.boxes:
+            x1, y1, x2, y2 = map(int, box.xyxy[0])  # Получаем координаты бокса
+            confidence = box.conf[0]
+            class_id = int(box.cls[0])
+
+            if confidence > 0.5:  # Порог уверенности
+                boxes.append([x1, y1, x2 - x1, y2 - y1])
+                confidences.append(float(confidence))
+                class_ids.append(class_id)
+
+    # Нахождение наибольшего по площади бокса (предполагаем, что это номерной знак)
+    if len(boxes) > 0:
+        max_index = np.argmax(confidences)
+        x, y, w, h = boxes[max_index]
+        plate_image = frame[y : y + h, x : x + w]
+
+        # Использование Tesseract для распознавания текста
+        text = pytesseract.image_to_string(plate_image, config="--psm 8")
+        print("Распознанный текст:", text)
+        return text
+
+    return None
+
+
+def process_video_stream():
+    # Захват видео с камеры (0 - индекс камеры по умолчанию)
+    cap = cv2.VideoCapture(0)
+
+    while True:
+        ret, frame = cap.read()
+        if not ret:
             break
 
-    if screenCnt is None:
-        print("Номерной знак не найден")
-        return ""
+        # Распознавание номерного знака на текущем кадре
+        text = recognize_plate_from_frame(frame)
 
-    # Маскирование остальной части изображения
-    mask = np.zeros(gray.shape, np.uint8)
-    new_image = cv2.drawContours(mask, [screenCnt], 0, 255, -1)
-    new_image = cv2.bitwise_and(image, image, mask=mask)
+        # Отображение кадра с распознанным текстом (если есть)
+        if text:
+            cv2.putText(
+                frame, text, (10, 50), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2
+            )
 
-    # Использование Tesseract для распознавания текста
-    text = pytesseract.image_to_string(new_image, config='--psm 8')
-    print("Распознанный текст:", text)
-    return text
+        cv2.imshow("Video", frame)
+
+        # Выход из цикла по нажатию 'q'
+        if cv2.waitKey(1) & 0xFF == ord("q"):
+            break
+
+    cap.release()
+    cv2.destroyAllWindows()
