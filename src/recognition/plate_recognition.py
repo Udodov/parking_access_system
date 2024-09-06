@@ -4,6 +4,7 @@ import pytesseract
 from ultralytics import YOLO
 
 from .image_processing import preprocess_image
+from src.utils.logger import recognition_logger
 
 # Загрузка модели YOLOv8 из директории models
 model_path = "models/yolov8s.pt"
@@ -11,6 +12,7 @@ model = YOLO(model_path)
 
 
 def recognize_plate_from_frame(frame):
+    recognition_logger.info("Начало распознавания номерного знака")
     # Предварительная обработка кадра (если требуется)
     preprocessed_frame, gray = preprocess_image(frame)
 
@@ -42,6 +44,7 @@ def recognize_plate_from_frame(frame):
         # Использование Tesseract для распознавания текста
         text = pytesseract.image_to_string(plate_image, config="--psm 8")
         print("Распознанный текст:", text)
+        recognition_logger.info(f"Распознан номер: {text}")
         return text
 
     return None

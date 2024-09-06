@@ -2,6 +2,7 @@ from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.future import select
 
 from src.database.models import Vehicle
+from src.utils.logger import access_control_logger
 
 
 class AccessManager:
@@ -25,6 +26,8 @@ class AccessManager:
         :param db_session: Асинхронная сессия базы данных.
         :return: True, если доступ разрешен, иначе False.
         """
+        access_control_logger.info(f"Проверка доступа для номера: {license_plate}")
+
         # Создаем запрос для поиска автомобиля по номерному знаку в базе данных
         query = select(Vehicle).where(Vehicle.license_plate == license_plate)
 
@@ -34,8 +37,17 @@ class AccessManager:
         # Получаем первую запись из результата
         vehicle = result.scalars().first()
 
-        # Возвращаем True, если автомобиль найден в базе данных или номерной знак в разрешенном списке
-        return vehicle is not None or license_plate in self.allowed_plates
+        # Проверяем доступ
+        access_granted = vehicle is not None or license_plate in self.allowed_plates
+
+        if access_granted:
+            access_control_logger.info(f"Доступ разрешен для номера: {license_plate}")
+        else:
+            access_control_logger.warning(
+                f"Доступ запрещен для номера: {license_plate}"
+            )
+
+        return access_granted
 
     def grant_access(self, license_plate: str) -> bool:
         """
@@ -44,4 +56,15 @@ class AccessManager:
         :param license_plate: Номерной знак для проверки.
         :return: True, если доступ разрешен, иначе False.
         """
-        return license_plate in self.allowed_plates
+        access_granted = license_plate in self.allowed_plates
+
+        if access_granted:
+            access_control_logger.info(
+                f"Доступ разрешен для номера: {license_plate} из списка разрешенных"
+            )
+        else:
+            access_control_logger.warning(
+                f"Доступ запрещен для номера: {license_plate} из списка разрешенных"
+            )
+
+        return access_granted

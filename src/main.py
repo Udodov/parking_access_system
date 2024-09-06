@@ -4,6 +4,7 @@ import uvicorn
 
 from src.config.config import Config
 from src.utils.helpers import setup_logging
+from src.utils.logger import main_logger
 from src.recognition.plate_recognition import (
     process_video_stream,
 )  # Импорт функции обработки видео
@@ -13,6 +14,7 @@ from web.app import create_app
 def main():
     # Настройка логирования
     setup_logging(logging.DEBUG)
+    main_logger.info("Система управления доступом на парковку запущена")
 
     # Получение конфигурации из переменных окружения через класс Config
     config = Config()
