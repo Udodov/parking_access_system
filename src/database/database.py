@@ -1,10 +1,16 @@
+# src/database/database.py
+
 from sqlalchemy.ext.asyncio import create_async_engine, AsyncSession
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.future import select
+from sqlalchemy.ext.declarative import declarative_base
 
-from src.config.config import config
-from src.database.models import Vehicle
+from src.config.config import Config
+from src.database.models import Vehicle, Base
 from src.utils.logger import database_logger
+
+# Получение конфигурации
+config = Config()
 
 # Создание асинхронного движка базы данных
 engine = create_async_engine(config.DATABASE_URL, echo=True)
@@ -14,6 +20,13 @@ AsyncSessionLocal = sessionmaker(
     bind=engine, class_=AsyncSession, expire_on_commit=False
 )
 
+async def create_database():
+    """
+    Создает все таблицы в базе данных.
+    """
+    async with engine.begin() as conn:
+        await conn.run_sync(Base.metadata.create_all)
+    database_logger.info("База данных создана.")
 
 async def get_db():
     """
@@ -22,6 +35,21 @@ async def get_db():
     async with AsyncSessionLocal() as session:
         yield session
 
+async def save_to_database(dataset):
+    """
+    Сохраняет датасет в базу данных.
+
+    :param dataset: Список объектов LicensePlate для сохранения.
+    """
+    async with AsyncSessionLocal() as session:
+        for plate in dataset:
+            vehicle = Vehicle(
+                license_plate=f"{plate.number} {plate.region}",
+                vehicle_type=plate.vehicle_type.value
+            )
+            session.add(vehicle)
+        await session.commit()
+    database_logger.info(f"Сохранено {len(dataset)} записей в базу данных.")
 
 async def get_vehicle_by_plate(plate_number: str):
     """
@@ -33,13 +61,8 @@ async def get_vehicle_by_plate(plate_number: str):
     database_logger.info(f"Запрос к базе данных для номера: {plate_number}")
 
     async with AsyncSessionLocal() as session:
-        # Создаем запрос для поиска автомобиля по номерному знаку
         query = select(Vehicle).where(Vehicle.license_plate == plate_number)
-
-        # Выполняем асинхронный запрос
         result = await session.execute(query)
-
-        # Получаем первую запись из результата
         vehicle = result.scalars().first()
 
         if vehicle:
