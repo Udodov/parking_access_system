@@ -1,0 +1,4997 @@
+[
+    {
+        "number": "Т623С",
+        "region": "146",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р999С",
+        "region": "153",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Е989Е",
+        "region": "04",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "М415В",
+        "region": "190",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "6392АВ",
+        "region": "178",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5006ВМ",
+        "region": "185",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5995СК",
+        "region": "37",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е360Е",
+        "region": "94",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9197РА",
+        "region": "67",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М244А",
+        "region": "179",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С652В",
+        "region": "161",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О906К",
+        "region": "35",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х352У",
+        "region": "179",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О956Н",
+        "region": "196",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А319К",
+        "region": "113",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т786Е",
+        "region": "01",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9604РС",
+        "region": "10",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А680Х",
+        "region": "132",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р664Х",
+        "region": "107",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Х412Р",
+        "region": "195",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р920О",
+        "region": "175",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2950ЕЕ",
+        "region": "35",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В926Т",
+        "region": "110",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "К903Р",
+        "region": "155",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "0267ТУ",
+        "region": "23",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р559У",
+        "region": "64",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "6413АС",
+        "region": "166",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О266У",
+        "region": "122",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "4474СА",
+        "region": "10",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Т341У",
+        "region": "170",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "М116М",
+        "region": "61",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У432С",
+        "region": "72",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Х788Р",
+        "region": "137",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О258К",
+        "region": "186",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "5483РН",
+        "region": "111",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р242Р",
+        "region": "107",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "8774КМ",
+        "region": "146",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А069Н",
+        "region": "133",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н705Р",
+        "region": "131",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н053Х",
+        "region": "136",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Н702С",
+        "region": "06",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9643АТ",
+        "region": "198",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р281О",
+        "region": "50",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "2515РО",
+        "region": "136",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "С407О",
+        "region": "166",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "3387ВР",
+        "region": "69",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е615К",
+        "region": "64",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т223В",
+        "region": "19",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р498Е",
+        "region": "162",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "М010Е",
+        "region": "172",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "К098Х",
+        "region": "194",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "9743РХ",
+        "region": "140",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е639У",
+        "region": "65",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О745Е",
+        "region": "185",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У606У",
+        "region": "128",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С135У",
+        "region": "74",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "7867РК",
+        "region": "92",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5844ВТ",
+        "region": "172",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А171У",
+        "region": "192",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "3467АС",
+        "region": "175",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н985С",
+        "region": "127",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "2408СН",
+        "region": "132",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х712С",
+        "region": "07",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А478А",
+        "region": "168",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1367ОУ",
+        "region": "164",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "3566УМ",
+        "region": "158",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "6946ТО",
+        "region": "135",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "С572Е",
+        "region": "107",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "6580МС",
+        "region": "198",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4758ТВ",
+        "region": "131",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4611НМ",
+        "region": "195",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Т470К",
+        "region": "81",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У616У",
+        "region": "18",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "0566ОТ",
+        "region": "35",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К520С",
+        "region": "42",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С022О",
+        "region": "32",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "6381ХС",
+        "region": "153",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х355Т",
+        "region": "198",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Х348Н",
+        "region": "189",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р615О",
+        "region": "17",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р707У",
+        "region": "116",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А926М",
+        "region": "24",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О038С",
+        "region": "40",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "8692ОС",
+        "region": "22",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В278О",
+        "region": "153",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е041О",
+        "region": "116",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1945ТХ",
+        "region": "144",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "С556К",
+        "region": "182",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "М577С",
+        "region": "186",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1009КА",
+        "region": "149",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "0536СО",
+        "region": "55",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М750Х",
+        "region": "157",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "К528С",
+        "region": "58",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Е950К",
+        "region": "46",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А467Х",
+        "region": "151",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1976УТ",
+        "region": "86",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М217Е",
+        "region": "86",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "6625ВХ",
+        "region": "97",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "6360ОР",
+        "region": "44",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У373О",
+        "region": "98",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1255ТО",
+        "region": "50",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "0576СА",
+        "region": "21",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К945О",
+        "region": "48",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "О203Х",
+        "region": "85",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "1833АО",
+        "region": "127",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н044М",
+        "region": "189",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н627А",
+        "region": "93",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У196Т",
+        "region": "199",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К733О",
+        "region": "139",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С952Е",
+        "region": "38",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т828Н",
+        "region": "169",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "0320УМ",
+        "region": "115",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "7033ТУ",
+        "region": "87",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К377Р",
+        "region": "63",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р546О",
+        "region": "37",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н104Н",
+        "region": "48",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т243Е",
+        "region": "156",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Н549О",
+        "region": "107",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М989Е",
+        "region": "153",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "3207МО",
+        "region": "54",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н114Н",
+        "region": "169",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О708Х",
+        "region": "190",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С576Т",
+        "region": "22",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е036Х",
+        "region": "187",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Н344К",
+        "region": "55",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Е800О",
+        "region": "71",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Н267Т",
+        "region": "90",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т107М",
+        "region": "37",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х407Н",
+        "region": "10",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т878М",
+        "region": "125",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "О020Р",
+        "region": "91",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р041М",
+        "region": "140",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т713В",
+        "region": "71",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У530Т",
+        "region": "159",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Х764У",
+        "region": "67",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Х945С",
+        "region": "77",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "0410ВМ",
+        "region": "169",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К635С",
+        "region": "186",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А625С",
+        "region": "20",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А962К",
+        "region": "150",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А026Е",
+        "region": "36",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С552С",
+        "region": "15",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т030Х",
+        "region": "08",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У628Е",
+        "region": "37",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е872Х",
+        "region": "40",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Е556В",
+        "region": "146",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "4603ВТ",
+        "region": "36",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "3202НА",
+        "region": "41",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К139У",
+        "region": "161",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У021О",
+        "region": "137",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "6902ЕР",
+        "region": "64",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "3948ТМ",
+        "region": "99",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О245Н",
+        "region": "181",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9664НС",
+        "region": "159",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е645Р",
+        "region": "79",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "3159РХ",
+        "region": "38",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К989А",
+        "region": "110",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "5177УВ",
+        "region": "147",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У734Х",
+        "region": "50",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "В747Р",
+        "region": "92",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С850К",
+        "region": "169",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т660Т",
+        "region": "83",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "3387КР",
+        "region": "108",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "8788ХВ",
+        "region": "136",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К143Н",
+        "region": "24",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1046ММ",
+        "region": "55",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "2683РХ",
+        "region": "17",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "8667ХК",
+        "region": "168",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5620ОУ",
+        "region": "19",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "С174Р",
+        "region": "25",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С411Х",
+        "region": "164",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "В986С",
+        "region": "34",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "7658МА",
+        "region": "181",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У712Е",
+        "region": "111",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "8614КЕ",
+        "region": "35",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5192УМ",
+        "region": "132",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М295Е",
+        "region": "158",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "5788КУ",
+        "region": "120",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "8133ЕМ",
+        "region": "79",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У813Е",
+        "region": "197",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С391Е",
+        "region": "20",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "6927ММ",
+        "region": "151",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "7887КС",
+        "region": "27",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "8319ЕО",
+        "region": "93",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М504У",
+        "region": "105",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Х824В",
+        "region": "63",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р279К",
+        "region": "138",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2046ХУ",
+        "region": "76",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5603АС",
+        "region": "134",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4805АВ",
+        "region": "171",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "3900АР",
+        "region": "87",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "С254А",
+        "region": "138",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Н684Н",
+        "region": "179",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Х814О",
+        "region": "51",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Х775М",
+        "region": "137",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н715С",
+        "region": "37",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О665Н",
+        "region": "41",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т229К",
+        "region": "25",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т135А",
+        "region": "58",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С483Н",
+        "region": "170",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "4239ЕР",
+        "region": "25",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "7450МХ",
+        "region": "126",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н811У",
+        "region": "196",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1145СВ",
+        "region": "106",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В191О",
+        "region": "82",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9099КР",
+        "region": "176",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "9326НХ",
+        "region": "53",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В228У",
+        "region": "131",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А440М",
+        "region": "16",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2013ХК",
+        "region": "35",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е734А",
+        "region": "43",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А907Т",
+        "region": "16",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О858У",
+        "region": "145",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "М235Х",
+        "region": "63",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У783С",
+        "region": "161",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "7596СР",
+        "region": "11",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4366РВ",
+        "region": "63",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М956Т",
+        "region": "21",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М541М",
+        "region": "82",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н542В",
+        "region": "70",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х769К",
+        "region": "155",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т759О",
+        "region": "55",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "2542УА",
+        "region": "127",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В793Х",
+        "region": "73",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9906НО",
+        "region": "123",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р722Е",
+        "region": "47",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К861Р",
+        "region": "27",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "В745Е",
+        "region": "192",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "8732УА",
+        "region": "65",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В090О",
+        "region": "87",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9836УО",
+        "region": "48",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У857У",
+        "region": "11",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М081Е",
+        "region": "70",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "0671СК",
+        "region": "184",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М905У",
+        "region": "143",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "2544КХ",
+        "region": "159",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "0395СР",
+        "region": "02",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К382Т",
+        "region": "140",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "В635Х",
+        "region": "19",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "К337С",
+        "region": "44",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "5154НЕ",
+        "region": "34",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "6724УК",
+        "region": "176",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х502Т",
+        "region": "02",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "7170ЕО",
+        "region": "81",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5777ОР",
+        "region": "175",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К882У",
+        "region": "14",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е359Р",
+        "region": "126",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С792В",
+        "region": "69",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С660Х",
+        "region": "73",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А216В",
+        "region": "54",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "3590НТ",
+        "region": "76",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О347У",
+        "region": "152",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Н611А",
+        "region": "41",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У559В",
+        "region": "82",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "К638У",
+        "region": "22",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е014У",
+        "region": "14",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "6374АЕ",
+        "region": "123",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н472Х",
+        "region": "21",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "6672АХ",
+        "region": "135",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "7071АО",
+        "region": "01",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М230Р",
+        "region": "79",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С666Х",
+        "region": "48",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "4273КХ",
+        "region": "64",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е743О",
+        "region": "159",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н027К",
+        "region": "139",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У753Х",
+        "region": "110",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2674ВК",
+        "region": "109",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О667О",
+        "region": "66",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "8577СВ",
+        "region": "112",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А274У",
+        "region": "09",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "0110ТЕ",
+        "region": "106",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А514А",
+        "region": "136",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "0937РО",
+        "region": "141",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "2479АТ",
+        "region": "95",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н058О",
+        "region": "136",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М413А",
+        "region": "64",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т550Т",
+        "region": "169",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Х129Н",
+        "region": "108",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М134Р",
+        "region": "61",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "4621ЕЕ",
+        "region": "72",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "0869ЕЕ",
+        "region": "176",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н147Н",
+        "region": "03",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "8229СМ",
+        "region": "172",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р595У",
+        "region": "09",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "В743Х",
+        "region": "76",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А581Р",
+        "region": "181",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У737А",
+        "region": "24",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е585К",
+        "region": "94",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р882Т",
+        "region": "142",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х620В",
+        "region": "43",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К387Р",
+        "region": "36",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "В147К",
+        "region": "20",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "4718ТМ",
+        "region": "115",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А839А",
+        "region": "40",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "5419РХ",
+        "region": "95",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К549У",
+        "region": "190",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р880Т",
+        "region": "75",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А979С",
+        "region": "126",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р087К",
+        "region": "146",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т533К",
+        "region": "197",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р045Н",
+        "region": "119",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "0868УР",
+        "region": "160",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Т380У",
+        "region": "87",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "5537ТН",
+        "region": "33",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Т744О",
+        "region": "61",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н941С",
+        "region": "168",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О374К",
+        "region": "07",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "В583А",
+        "region": "102",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р466Н",
+        "region": "120",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р205У",
+        "region": "13",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1810СВ",
+        "region": "111",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У405А",
+        "region": "10",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "В786В",
+        "region": "160",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "1362ВН",
+        "region": "15",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "9764УУ",
+        "region": "86",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н072Е",
+        "region": "135",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н947Е",
+        "region": "145",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Х669Х",
+        "region": "05",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К412Х",
+        "region": "47",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9865СА",
+        "region": "84",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р222Н",
+        "region": "04",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "3165ЕН",
+        "region": "133",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М214Т",
+        "region": "91",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М712Е",
+        "region": "158",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Е939Е",
+        "region": "83",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "6983СУ",
+        "region": "127",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х827Р",
+        "region": "178",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р838А",
+        "region": "171",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е537Е",
+        "region": "176",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К116В",
+        "region": "135",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р285Х",
+        "region": "93",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н706А",
+        "region": "04",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1548НМ",
+        "region": "113",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р463В",
+        "region": "82",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "6334КМ",
+        "region": "33",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М017У",
+        "region": "08",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М123В",
+        "region": "171",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О528Т",
+        "region": "185",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У503Е",
+        "region": "86",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т979К",
+        "region": "73",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А741Р",
+        "region": "54",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "5045ЕК",
+        "region": "144",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "9515АЕ",
+        "region": "86",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "С200А",
+        "region": "143",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "3721МН",
+        "region": "14",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р994С",
+        "region": "199",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н377Т",
+        "region": "98",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "4676НМ",
+        "region": "34",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4907ХТ",
+        "region": "77",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "С058К",
+        "region": "115",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "9415РТ",
+        "region": "134",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "8185ВН",
+        "region": "119",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5385МР",
+        "region": "91",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х335К",
+        "region": "95",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "О887Е",
+        "region": "77",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "В162Р",
+        "region": "197",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У954Е",
+        "region": "32",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т073К",
+        "region": "87",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "4366МТ",
+        "region": "86",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О181Х",
+        "region": "146",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "О235С",
+        "region": "76",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М919М",
+        "region": "92",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "2730ЕО",
+        "region": "103",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К988У",
+        "region": "17",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1636НВ",
+        "region": "81",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4992ХС",
+        "region": "112",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В472А",
+        "region": "154",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1476МК",
+        "region": "120",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "6943МХ",
+        "region": "75",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В266О",
+        "region": "184",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М209Е",
+        "region": "132",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "7903ВА",
+        "region": "178",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В729Н",
+        "region": "193",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У042С",
+        "region": "180",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "6864НТ",
+        "region": "106",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н778В",
+        "region": "67",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9995ЕР",
+        "region": "44",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е751У",
+        "region": "194",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р394У",
+        "region": "155",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "8997ХА",
+        "region": "44",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Т727С",
+        "region": "132",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "В178В",
+        "region": "137",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "5154МУ",
+        "region": "10",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "7380АК",
+        "region": "110",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е823Х",
+        "region": "166",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Х390Е",
+        "region": "150",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х560С",
+        "region": "195",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "В427У",
+        "region": "111",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н785В",
+        "region": "76",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "7321ЕН",
+        "region": "11",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О993К",
+        "region": "168",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "8137СТ",
+        "region": "181",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "3649ЕУ",
+        "region": "163",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В872Т",
+        "region": "199",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н342С",
+        "region": "10",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "2015ХВ",
+        "region": "39",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р413Х",
+        "region": "127",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "7082КС",
+        "region": "186",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "6256ВО",
+        "region": "99",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В189В",
+        "region": "196",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К284В",
+        "region": "33",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2225КН",
+        "region": "191",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В104А",
+        "region": "47",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р991А",
+        "region": "61",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "0909КС",
+        "region": "30",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О214Н",
+        "region": "24",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е540К",
+        "region": "69",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т663Р",
+        "region": "111",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "7772ТТ",
+        "region": "47",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н104В",
+        "region": "137",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А311Н",
+        "region": "16",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С082С",
+        "region": "14",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А269А",
+        "region": "01",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "3553МА",
+        "region": "35",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н278Н",
+        "region": "189",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т304Х",
+        "region": "81",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "В877М",
+        "region": "01",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9935МВ",
+        "region": "84",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н141Н",
+        "region": "192",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М360М",
+        "region": "38",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "К744Н",
+        "region": "66",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х414О",
+        "region": "113",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У113В",
+        "region": "01",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р762У",
+        "region": "178",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "9492ВК",
+        "region": "88",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А401А",
+        "region": "150",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9455ЕО",
+        "region": "138",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "9189КУ",
+        "region": "09",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "1010ВС",
+        "region": "179",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "1488МУ",
+        "region": "162",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Т049С",
+        "region": "103",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "2424ХО",
+        "region": "94",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "1849НО",
+        "region": "67",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5368РТ",
+        "region": "97",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О722В",
+        "region": "124",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "6144ВЕ",
+        "region": "154",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "9827МХ",
+        "region": "75",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М025Р",
+        "region": "39",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р782Е",
+        "region": "189",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К835А",
+        "region": "62",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М283У",
+        "region": "93",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е592Т",
+        "region": "120",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К114Т",
+        "region": "128",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "5192НС",
+        "region": "125",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н425К",
+        "region": "145",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "8688АН",
+        "region": "33",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А569М",
+        "region": "165",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М764Т",
+        "region": "184",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х349Р",
+        "region": "46",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р121Р",
+        "region": "111",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "М952О",
+        "region": "16",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С280Н",
+        "region": "122",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "К256Н",
+        "region": "166",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С901М",
+        "region": "104",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "2247КХ",
+        "region": "07",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х489А",
+        "region": "12",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "8429АМ",
+        "region": "114",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е424М",
+        "region": "196",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х008М",
+        "region": "103",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Е524Е",
+        "region": "53",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Е347Х",
+        "region": "137",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "В190В",
+        "region": "157",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р142А",
+        "region": "16",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1053УТ",
+        "region": "189",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х077Е",
+        "region": "54",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т089А",
+        "region": "77",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х437Е",
+        "region": "06",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "7864АС",
+        "region": "55",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О854Н",
+        "region": "14",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У163Н",
+        "region": "107",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "3534НУ",
+        "region": "190",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х290М",
+        "region": "49",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У856А",
+        "region": "184",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М058В",
+        "region": "57",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р876Т",
+        "region": "136",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Е704Е",
+        "region": "03",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е102Е",
+        "region": "77",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "4745АЕ",
+        "region": "89",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В862Т",
+        "region": "99",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "К338В",
+        "region": "58",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "0411ВС",
+        "region": "97",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "0981АЕ",
+        "region": "92",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У172К",
+        "region": "90",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "К489М",
+        "region": "184",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Х688С",
+        "region": "163",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "М717А",
+        "region": "184",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1483ОК",
+        "region": "193",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "0842УА",
+        "region": "176",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4291РЕ",
+        "region": "34",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "1182ЕР",
+        "region": "87",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "3987ЕР",
+        "region": "116",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5629АУ",
+        "region": "136",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "9137ВР",
+        "region": "188",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р154А",
+        "region": "14",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У552Т",
+        "region": "189",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т767Е",
+        "region": "160",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К161Е",
+        "region": "96",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е520М",
+        "region": "170",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "4360ОК",
+        "region": "79",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р830Р",
+        "region": "68",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Н119С",
+        "region": "183",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Е174Х",
+        "region": "85",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е181Х",
+        "region": "140",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9004ЕУ",
+        "region": "175",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "1547РО",
+        "region": "151",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "7181ТО",
+        "region": "167",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "7985ОХ",
+        "region": "40",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х427А",
+        "region": "08",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О233О",
+        "region": "68",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С227Х",
+        "region": "44",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т382У",
+        "region": "97",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "О717О",
+        "region": "44",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "К358Е",
+        "region": "64",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х360Р",
+        "region": "105",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р635М",
+        "region": "07",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р927Н",
+        "region": "151",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А519О",
+        "region": "168",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "О082Е",
+        "region": "171",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "9116ХС",
+        "region": "28",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "0306УТ",
+        "region": "178",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В820Е",
+        "region": "169",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т090Е",
+        "region": "105",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е118Х",
+        "region": "65",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1616ЕО",
+        "region": "156",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М833У",
+        "region": "143",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Х865Н",
+        "region": "40",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "4911НХ",
+        "region": "89",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В668М",
+        "region": "55",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У283Х",
+        "region": "99",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р297Т",
+        "region": "156",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х291Н",
+        "region": "75",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9967СС",
+        "region": "137",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У000Е",
+        "region": "155",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С713Р",
+        "region": "97",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2373ЕЕ",
+        "region": "181",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "6366СВ",
+        "region": "54",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4431ВА",
+        "region": "09",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "6281УО",
+        "region": "81",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В663Р",
+        "region": "188",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "2195ТО",
+        "region": "188",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М020М",
+        "region": "04",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "7362МВ",
+        "region": "183",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О084М",
+        "region": "21",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С360С",
+        "region": "46",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2942УМ",
+        "region": "176",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У069Р",
+        "region": "73",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Е920С",
+        "region": "59",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У165Т",
+        "region": "58",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К266Т",
+        "region": "68",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т596Е",
+        "region": "61",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "9355ХС",
+        "region": "09",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р591Т",
+        "region": "161",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "0925СЕ",
+        "region": "63",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Т344М",
+        "region": "165",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9940АР",
+        "region": "63",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "6652УВ",
+        "region": "115",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К768У",
+        "region": "30",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "4068ТК",
+        "region": "124",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К228В",
+        "region": "135",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К084А",
+        "region": "12",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9027АР",
+        "region": "156",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "1721ЕР",
+        "region": "170",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "6215СС",
+        "region": "83",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "8205РА",
+        "region": "18",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е591С",
+        "region": "76",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У240В",
+        "region": "20",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "1373МВ",
+        "region": "142",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4554РР",
+        "region": "78",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У213Н",
+        "region": "119",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "4687МВ",
+        "region": "86",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А981Р",
+        "region": "191",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "8595ОН",
+        "region": "173",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К252Р",
+        "region": "189",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М306У",
+        "region": "183",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М839М",
+        "region": "119",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е473Е",
+        "region": "53",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М449Т",
+        "region": "41",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К487Х",
+        "region": "140",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р339У",
+        "region": "158",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "К261К",
+        "region": "108",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "М101В",
+        "region": "97",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К090В",
+        "region": "189",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Н061Н",
+        "region": "184",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А870С",
+        "region": "164",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К449А",
+        "region": "137",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К410В",
+        "region": "44",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "В222Н",
+        "region": "103",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2305ЕО",
+        "region": "185",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В530У",
+        "region": "22",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т096О",
+        "region": "10",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "1418ЕО",
+        "region": "11",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н539О",
+        "region": "99",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "5012АТ",
+        "region": "166",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К313К",
+        "region": "130",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А548Н",
+        "region": "197",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С765С",
+        "region": "147",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "3024УН",
+        "region": "67",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Т481У",
+        "region": "170",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "0426АН",
+        "region": "103",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А277М",
+        "region": "187",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2918ОР",
+        "region": "105",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "6968ЕС",
+        "region": "179",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А328У",
+        "region": "161",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "6044ХМ",
+        "region": "183",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А449М",
+        "region": "41",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У886Т",
+        "region": "71",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р493А",
+        "region": "176",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "2233ХА",
+        "region": "19",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р578В",
+        "region": "50",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М093У",
+        "region": "109",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р688Х",
+        "region": "110",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "В374А",
+        "region": "56",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е213К",
+        "region": "48",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "4678ЕУ",
+        "region": "63",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "6871ОЕ",
+        "region": "78",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К886С",
+        "region": "51",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У972А",
+        "region": "59",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т325Т",
+        "region": "40",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К801Н",
+        "region": "39",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н176Т",
+        "region": "07",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А119У",
+        "region": "121",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "9067АА",
+        "region": "19",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А851А",
+        "region": "93",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У623В",
+        "region": "117",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "6722СХ",
+        "region": "36",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О596С",
+        "region": "21",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С265С",
+        "region": "24",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "4388КА",
+        "region": "81",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О282А",
+        "region": "96",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "1566ВХ",
+        "region": "80",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "6290АН",
+        "region": "56",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4496ОР",
+        "region": "153",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В266К",
+        "region": "07",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М648Х",
+        "region": "36",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2711НР",
+        "region": "98",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4815УМ",
+        "region": "65",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "3285УЕ",
+        "region": "12",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А079Е",
+        "region": "143",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У472А",
+        "region": "176",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У998Т",
+        "region": "147",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2598ТМ",
+        "region": "196",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В259В",
+        "region": "138",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Н079О",
+        "region": "52",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н726О",
+        "region": "139",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9048ОУ",
+        "region": "47",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "0820ХС",
+        "region": "117",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р274М",
+        "region": "184",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н022О",
+        "region": "28",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "В051А",
+        "region": "95",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С590К",
+        "region": "176",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2172ХМ",
+        "region": "15",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р188О",
+        "region": "58",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9022ХК",
+        "region": "08",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "0179АР",
+        "region": "43",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А354У",
+        "region": "07",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1371ТС",
+        "region": "33",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н049К",
+        "region": "144",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "6613ХР",
+        "region": "187",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О504К",
+        "region": "120",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х476С",
+        "region": "48",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "М561Н",
+        "region": "153",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н232В",
+        "region": "53",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "8578СА",
+        "region": "186",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "С171Р",
+        "region": "163",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С057А",
+        "region": "71",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х539С",
+        "region": "182",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А791Р",
+        "region": "145",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "2608ЕМ",
+        "region": "178",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "3802КА",
+        "region": "51",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5239КВ",
+        "region": "95",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х303К",
+        "region": "126",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р424М",
+        "region": "182",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К960Н",
+        "region": "03",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "3897ЕН",
+        "region": "138",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "3869СО",
+        "region": "114",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "9709НМ",
+        "region": "117",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е610С",
+        "region": "153",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А668М",
+        "region": "149",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т417М",
+        "region": "179",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "7088ХТ",
+        "region": "189",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А529М",
+        "region": "152",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У690Х",
+        "region": "26",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С024О",
+        "region": "09",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р969В",
+        "region": "173",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р671Р",
+        "region": "90",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "8095ХО",
+        "region": "125",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В099С",
+        "region": "131",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Е315С",
+        "region": "32",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У498С",
+        "region": "152",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У337О",
+        "region": "05",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "О885С",
+        "region": "24",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е917Р",
+        "region": "151",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А028У",
+        "region": "41",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т626Х",
+        "region": "181",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н423У",
+        "region": "188",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "3316КН",
+        "region": "145",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А478Е",
+        "region": "157",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А093С",
+        "region": "179",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9715УМ",
+        "region": "94",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "2717НС",
+        "region": "184",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В340Т",
+        "region": "134",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А831Х",
+        "region": "106",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С428У",
+        "region": "182",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У333С",
+        "region": "44",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У889У",
+        "region": "175",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "О023С",
+        "region": "125",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "О345Р",
+        "region": "98",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х157А",
+        "region": "98",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1020МХ",
+        "region": "162",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х678А",
+        "region": "77",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н045Е",
+        "region": "171",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М216Х",
+        "region": "192",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "1434УМ",
+        "region": "89",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В330Е",
+        "region": "88",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "8299НК",
+        "region": "106",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А396Н",
+        "region": "109",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "3751УТ",
+        "region": "152",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "3254ВА",
+        "region": "17",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "1469СТ",
+        "region": "126",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У027М",
+        "region": "169",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т218К",
+        "region": "151",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О954Х",
+        "region": "81",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "В976В",
+        "region": "65",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С707В",
+        "region": "43",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У564Е",
+        "region": "194",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е471А",
+        "region": "88",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т467Р",
+        "region": "187",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "9405РХ",
+        "region": "02",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х773Е",
+        "region": "132",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С213Х",
+        "region": "192",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А739К",
+        "region": "174",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9072ВТ",
+        "region": "146",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "6374КС",
+        "region": "183",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "8932РУ",
+        "region": "187",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4712ЕВ",
+        "region": "127",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Т417К",
+        "region": "103",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С719Х",
+        "region": "38",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "8202АК",
+        "region": "121",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4889НЕ",
+        "region": "48",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О625Р",
+        "region": "02",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А623А",
+        "region": "169",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О049Х",
+        "region": "50",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х625С",
+        "region": "153",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М757М",
+        "region": "12",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "9064ТТ",
+        "region": "22",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е076О",
+        "region": "03",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т553А",
+        "region": "161",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "8170УУ",
+        "region": "40",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "1960УА",
+        "region": "73",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К293А",
+        "region": "06",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Н849М",
+        "region": "62",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "4987ХС",
+        "region": "111",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "С027А",
+        "region": "165",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р891К",
+        "region": "189",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р469Е",
+        "region": "169",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т948Н",
+        "region": "147",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Н311В",
+        "region": "48",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т459М",
+        "region": "46",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е639К",
+        "region": "168",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О918Е",
+        "region": "32",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "4649ХМ",
+        "region": "165",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "2476МУ",
+        "region": "164",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "1385ХЕ",
+        "region": "192",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н275Н",
+        "region": "50",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С548М",
+        "region": "73",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У609М",
+        "region": "107",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У076К",
+        "region": "120",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А276Е",
+        "region": "61",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "5685ЕА",
+        "region": "108",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х119У",
+        "region": "77",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т854К",
+        "region": "11",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т959Е",
+        "region": "132",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "О623К",
+        "region": "151",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "8920ОХ",
+        "region": "143",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е103Х",
+        "region": "50",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9609ХН",
+        "region": "06",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "1644СС",
+        "region": "167",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4657УС",
+        "region": "08",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "С418К",
+        "region": "19",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "В021Т",
+        "region": "08",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С885Е",
+        "region": "160",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У690У",
+        "region": "19",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "К545О",
+        "region": "192",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2954АА",
+        "region": "158",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А458В",
+        "region": "59",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "7976РС",
+        "region": "193",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5675УС",
+        "region": "07",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х464К",
+        "region": "185",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "0467МА",
+        "region": "125",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4879КВ",
+        "region": "102",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У083В",
+        "region": "105",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "9397КХ",
+        "region": "154",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р960О",
+        "region": "96",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С682Х",
+        "region": "72",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "4275ЕВ",
+        "region": "147",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В576У",
+        "region": "158",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т950М",
+        "region": "189",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1881ХК",
+        "region": "85",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е076К",
+        "region": "114",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2325КС",
+        "region": "167",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "3592РТ",
+        "region": "149",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А128О",
+        "region": "84",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Х679О",
+        "region": "147",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р502Р",
+        "region": "59",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н299М",
+        "region": "35",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А156А",
+        "region": "61",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "3535ВН",
+        "region": "21",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "9511ВМ",
+        "region": "108",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н265А",
+        "region": "35",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "5204КА",
+        "region": "134",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х024Е",
+        "region": "98",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "4704ТК",
+        "region": "191",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р699О",
+        "region": "182",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2866ВС",
+        "region": "149",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "1172ОЕ",
+        "region": "69",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "3413ТУ",
+        "region": "55",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "0766МН",
+        "region": "124",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "8699ХР",
+        "region": "25",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А326М",
+        "region": "143",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "1065МО",
+        "region": "182",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х681Т",
+        "region": "190",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р733С",
+        "region": "82",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "4541МК",
+        "region": "112",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5362ХТ",
+        "region": "60",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р996С",
+        "region": "161",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Е938Х",
+        "region": "137",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О794Х",
+        "region": "94",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "0298МХ",
+        "region": "94",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4949КТ",
+        "region": "113",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р709Т",
+        "region": "86",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А437Н",
+        "region": "84",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "2791ВМ",
+        "region": "127",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х895У",
+        "region": "151",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "6521УС",
+        "region": "190",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Т248Н",
+        "region": "110",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "В962Т",
+        "region": "78",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М427Р",
+        "region": "21",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "М841С",
+        "region": "113",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н947А",
+        "region": "50",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р340А",
+        "region": "163",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р225Р",
+        "region": "21",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А023Т",
+        "region": "15",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "5311ВО",
+        "region": "07",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н781Х",
+        "region": "19",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "9251ХХ",
+        "region": "137",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М874У",
+        "region": "185",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О116У",
+        "region": "26",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т773К",
+        "region": "190",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "М706С",
+        "region": "79",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "6520КО",
+        "region": "171",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "6715ОС",
+        "region": "162",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К095В",
+        "region": "23",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "0755ВО",
+        "region": "35",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М112Х",
+        "region": "183",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "8591СУ",
+        "region": "163",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5388ХХ",
+        "region": "46",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х352Р",
+        "region": "49",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М432Н",
+        "region": "49",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "0856ЕУ",
+        "region": "161",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "3023СТ",
+        "region": "150",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "8486УР",
+        "region": "14",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "7620ТС",
+        "region": "186",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5310ХС",
+        "region": "130",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х854М",
+        "region": "109",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "2584КК",
+        "region": "178",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Т944М",
+        "region": "172",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "2699ВЕ",
+        "region": "116",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "7381ТЕ",
+        "region": "72",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "7565ВА",
+        "region": "94",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О316Х",
+        "region": "34",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К297Х",
+        "region": "08",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А760Х",
+        "region": "122",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Х316С",
+        "region": "165",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "0582МЕ",
+        "region": "46",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М928С",
+        "region": "68",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "0251НХ",
+        "region": "09",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М695Т",
+        "region": "133",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "0028ТЕ",
+        "region": "113",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А445А",
+        "region": "42",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А196Е",
+        "region": "105",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Е786М",
+        "region": "154",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т919С",
+        "region": "172",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Н385В",
+        "region": "111",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У906Р",
+        "region": "34",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "0625РТ",
+        "region": "77",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р269С",
+        "region": "01",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М972Р",
+        "region": "114",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н503В",
+        "region": "173",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т205В",
+        "region": "105",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "О488Т",
+        "region": "62",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "1046ХХ",
+        "region": "182",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Н262В",
+        "region": "183",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Е992Т",
+        "region": "158",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С016А",
+        "region": "46",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "6760УН",
+        "region": "67",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "А492М",
+        "region": "185",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р742У",
+        "region": "04",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Р383А",
+        "region": "160",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М597Р",
+        "region": "78",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Н372У",
+        "region": "80",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "0275АО",
+        "region": "146",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е429О",
+        "region": "54",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "В796А",
+        "region": "170",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О418О",
+        "region": "173",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К462Р",
+        "region": "162",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "К677Р",
+        "region": "144",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "У566Х",
+        "region": "66",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "6217ЕК",
+        "region": "169",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е903С",
+        "region": "56",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р087С",
+        "region": "02",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "5815НХ",
+        "region": "116",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "О098У",
+        "region": "165",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "В803Н",
+        "region": "54",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А638К",
+        "region": "43",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "О931Т",
+        "region": "33",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "6954АЕ",
+        "region": "183",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Х990О",
+        "region": "183",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н143К",
+        "region": "69",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С605О",
+        "region": "69",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "А375С",
+        "region": "105",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "9521СУ",
+        "region": "93",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В441О",
+        "region": "105",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "В853К",
+        "region": "07",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "О373К",
+        "region": "172",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "6037ЕК",
+        "region": "156",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У136М",
+        "region": "192",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "7960ОМ",
+        "region": "182",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "3127ХТ",
+        "region": "01",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р827О",
+        "region": "39",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С248С",
+        "region": "38",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т380Е",
+        "region": "117",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С841К",
+        "region": "170",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Х184У",
+        "region": "92",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А752Х",
+        "region": "24",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "В592С",
+        "region": "58",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Н678Р",
+        "region": "94",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Н442В",
+        "region": "55",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р264К",
+        "region": "33",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С954Е",
+        "region": "04",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А491К",
+        "region": "21",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "У849Р",
+        "region": "83",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Т483Н",
+        "region": "124",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "9825ТВ",
+        "region": "117",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "3395ЕЕ",
+        "region": "27",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "С148У",
+        "region": "132",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "М640Н",
+        "region": "114",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "О157В",
+        "region": "131",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М270У",
+        "region": "151",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р654М",
+        "region": "181",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "5057МР",
+        "region": "71",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "4703УН",
+        "region": "72",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У058В",
+        "region": "93",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М686М",
+        "region": "120",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "К233Н",
+        "region": "125",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "2079ХН",
+        "region": "116",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Т788В",
+        "region": "13",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р020С",
+        "region": "18",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "В949Х",
+        "region": "170",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "Р145Р",
+        "region": "146",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "7321КУ",
+        "region": "141",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М247М",
+        "region": "195",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "М440С",
+        "region": "75",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1044АУ",
+        "region": "124",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У425О",
+        "region": "28",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "4733ХА",
+        "region": "42",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "В920К",
+        "region": "186",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "1773ЕТ",
+        "region": "90",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "С038У",
+        "region": "185",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "С990Е",
+        "region": "77",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "9388НТ",
+        "region": "140",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "8762УУ",
+        "region": "52",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Е287М",
+        "region": "40",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "6299ХВ",
+        "region": "115",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "5375РР",
+        "region": "59",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У251Е",
+        "region": "163",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т864К",
+        "region": "150",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "К775Т",
+        "region": "18",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "0610РС",
+        "region": "12",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Т036С",
+        "region": "94",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "М825Е",
+        "region": "12",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "8410НМ",
+        "region": "05",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "С285К",
+        "region": "64",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "В202М",
+        "region": "104",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "7209МА",
+        "region": "180",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "У720Р",
+        "region": "196",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А083А",
+        "region": "09",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "С131О",
+        "region": "58",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "6950СР",
+        "region": "150",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "8778НС",
+        "region": "105",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "М429А",
+        "region": "11",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "А333С",
+        "region": "187",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "Т235Н",
+        "region": "104",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "9005ЕА",
+        "region": "180",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "К298Х",
+        "region": "74",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "В912Е",
+        "region": "103",
+        "vehicle_type": "Легковой автомобиль"
+    },
+    {
+        "number": "3358АР",
+        "region": "130",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "1071КР",
+        "region": "123",
+        "vehicle_type": "Мотоцикл"
+    },
+    {
+        "number": "Р587Т",
+        "region": "164",
+        "vehicle_type": "Грузовой автомобиль"
+    },
+    {
+        "number": "М532Т",
+        "region": "172",
+        "vehicle_type": "Легковой автомобиль"
+    }
+]
